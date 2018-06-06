@@ -5,13 +5,13 @@ A form to record attendancy, especialy for our choir.
 ### Installing
 
 Install the dependencies.
-'''
+```
 npm install
-'''
+```
 Simply start the react to run the page.
-'''
+```
 npm run start
-'''
+```
 
 ### Features
 
