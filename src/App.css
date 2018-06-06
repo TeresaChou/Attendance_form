@@ -1,0 +1,12 @@
+h3 {
+   margin-left: 20px;
+}
+
+Button {
+   float: right;
+   margin: 10px 5px;
+}
+
+label {
+   display: inline;
+}
